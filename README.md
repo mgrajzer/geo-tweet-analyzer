@@ -50,7 +50,7 @@ This is the main class containing the main method, and is responsible for the fo
 - creating new `User` instance in order to test the `getMessages` method.
 - creating new `Point` instance in order to test the `search` method. 
 
-[!NOTE]
-Code was partially written with help of AI. The prompts however were focused on explainig my mistakes, and guiding me to the solution rather than giving the straight forward answer. 
+>[!NOTE]
+>Code was partially written with help of AI. The prompts however were focused on explainig my mistakes, and guiding me to the solution rather than giving the straight forward answer. 
 
 An honorable mention to [Boloco 50 Congress Street - Burrito Restaurant](https://boloco.com/), which served as the reference point for measuring distance and seems like a cool place to visit. :)
