@@ -1,10 +1,14 @@
-# geo-tweet-analyzer
-A simple Java application that reads and parses a CSV file containing tweets. It is the final assignment for the course Practice: Software Development.
+# Geo Tweet Analyzer
 
-## Features
-- Parses CSV handling quoted commas.
-- Stores messages as `Message` objects with user and location info.
-- Filters messages by user ID.
-- Finds messages near a geographic point within a radius.
+A simple Java application that reads and parses a CSV file containing tweets. It is the final assignment for the course Practice: Software Development at the University of Salzburg in the Summer Semester 2025. 
 
+## Structure
+Project consists of four classes, i.e. 'Main', 'User', 'Message' and 'Point'. 
+
+### 1. 'User'
+This class is the representation of a user that posts messages/tweets. 
+
+- **Attributes:**
+	- 'userId' (String)
+- **Methods:**
 
